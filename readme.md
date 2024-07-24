@@ -3,7 +3,7 @@
 This project aims to predict the Return on Equity (ROE) of companies based on various financial metrics using a machine learning model. The project includes data analysis, model training, and a web application for making predictions.
 
 #### Data source - [Link](https://dataverse.harvard.edu/dataset.xhtml;jsessionid=41510459a96a8d0e58860d844857?persistentId=doi:10.7910/DVN/XMVD5L)
-
+#### App - [link](https://roe-prediction-jatinmehra119.streamlit.app/)
  - Notebook.ipynb - It includes all the EDA, Preprocessing, Model Training and Model Evaluation. 
  - ROE_model.pkl - Pipelined Model Saved as a pickle file.  
  - app.py - Streamlit app used for making prediction using pickled model.
